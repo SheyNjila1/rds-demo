@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-2"
-aws_access_key_id = "AKIA6K5Q6XPCLIQ2LJVL"
-aws_secret_access_key = "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"
+  aws_access_key_id = "AKIA6K5Q6XPCLIQ2LJVL"
+  aws_secret_access_key = "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"
 
 }
 
